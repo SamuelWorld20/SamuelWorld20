@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A software engineering enthusiast, eager to innovate and create impactful software solutions.</h3>
-<img align="right" alt="Coding" width="400" height="500" src="https://i.pinimg.com/564x/d2/1b/c0/d21bc0a66ec2e346dcbd73874b93ab02.jpg">
+<img align="right" alt="Coding" width="400" height="470" src="https://i.pinimg.com/564x/d2/1b/c0/d21bc0a66ec2e346dcbd73874b93ab02.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelworld20&label=Profile%20views&color=0e75b6&style=flat" alt="samuelworld20" /> </p>
 
