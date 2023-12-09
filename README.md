@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelworld20&label=Profile%20views&color=0e75b6&style=flat" alt="samuelworld20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gold_fish126" target="blank"><img src="https://img.shields.io/twitter/follow/gold_fish126?logo=twitter&style=for-the-badge" alt="gold_fish126" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sammyoluwaseyi_" target="blank"><img src="https://img.shields.io/twitter/follow/sammyoluwaseyi_?logo=twitter&style=for-the-badge" alt="sammyoluwaseyi_" /></a> </p>
 
 - 🔭 I’m currently a software enginering student **@ALX_SE**
 
