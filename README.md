@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sammyoluwaseyi_" target="blank"><img src="https://img.shields.io/twitter/follow/sammyoluwaseyi_?logo=twitter&style=for-the-badge" alt="sammyoluwaseyi_" /></a> </p>
 
-- 🔭 I’m currently a software enginering student **@ALX_SE**
+- 🔭 Software Enginer Alumni **@ALX_SE**
 
 - 📫 How to reach me **ejalonibuoluwaseyi@gmail.com**
 
